@@ -1,2 +1,2 @@
 # Portfolio-Website
-Personal portfolio website showcasing my skills, projects, and experience as a web developer. Built with modern web technologies and designed for a clean, responsive user experience.
+A responsive portfolio website built with HTML, CSS, and JavaScript (plus modern frameworks). Showcases my web development projects, skills, and contact details in a clean, user-friendly layout.
